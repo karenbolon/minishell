@@ -7,6 +7,6 @@ A simple shell implementation written in C, providing a basic command-line inter
 - **Built-in Commands:** Implementation of common shell built-ins (e.g., cd, exit).
 - **Error Handling:** Basic error handling for command execution and parsing errors.
 
-**Collaboration**
+**Collaboration**  
 This project was completed in collaboration with another student. We worked together on various aspects of the project, including code design, implementation, and debugging. The collaboration was essential in ensuring the project met its objectives and provided a comprehensive learning experience.
 
